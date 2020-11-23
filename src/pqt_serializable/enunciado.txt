@@ -1,0 +1,11 @@
+1º. Escribir un programa que permita almacenar en un fichero serializable, una agenda telefónica. Cada registro de
+ la agenda deberá contener, los siguientes datos: Nombre, Apellidos, Nº de Teléfono, E-mail.
+ El programa deberá permitir las siguientes operaciones, mediante un menú.
+ a) Leer los datos de un nuevo registro (dar de alta), almacenándolo en el fichero.
+ b) Buscar una persona de la agenda leyendo de teclado su nombre y apellidos. Se visualizara el resto de los
+ datos.
+ c) Modificar el teléfono o e_mail, de una persona que se pedirá por teclado.
+ d) Eliminar una persona de la agenda telefónica dando su nombre y apellidos. Todas las personas que se eliminen
+ del fichero, se guardaran en un fichero de texto, llamado Eliminados.txt, y en el que se guardara un registro por
+ línea.
+ Finalmente, cuando se salga del menú, se escribirá el contenido del fichero de texto Eliminados.txt.
